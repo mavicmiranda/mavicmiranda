@@ -1,14 +1,12 @@
 <div style="display: flex;">
-<img height="80em" width="80em" src="src/Wave.png" />
-<div class="mr-4">
-<h1 align="center">Oiii! Eu sou a Maria Victória</h1>
-</div>
+<h1 align="left"><img height="80em" width="80em" src="src/Wave.png" />Oiii! Eu sou a Maria Victória</h1>
 <div>
 </div>
 </div>
 <h3 align="left" style="font-style: italic;" >Engenheira biomédica por formação, apaixonada por tecnologia, sempre pronta para uma novos desafios, adoro ir em eventos de tech e trabalhar em equipe </h3>
 
 <div align="center" style="display: flex;">
+    <div>
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=mavicmiranda&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
     </a>
@@ -38,11 +36,13 @@
 </div>
 
 <div style="display: flex;">
-<div>
-  <a href="https://github.com/mavicmiranda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mavicmiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div>
+    <a href="https://github.com/mavicmiranda">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mavicmiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
   </div>
   <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavicmiranda&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavicmiranda&layout=compact&langs_count=16&theme=dracula"/>
   </div>
 </div>
+
