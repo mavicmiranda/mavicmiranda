@@ -12,19 +12,16 @@
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=mavicmiranda&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
     </a>
-    <div style="margin-left: 20px;"> <!-- Adicionando um espaçamento de 20px entre as divs -->
+    <div> 
         <h3 align="right">Conecte-se comigo:</h3>
-        <div align="left">
-            <a href="https://www.linkedin.com/in/mauro-victor-697744251">
+        <div>
+            <a href="https://www.linkedin.com/in/maria-vict%C3%B3ria-alves-de-miranda-749864195/">
                 <img align="right" height="80em" width="80em" src="src/Love.png" alt="LinkedIn Profile">
             </a>
         </div>
     </div>
 </div>
 
-
-
-<h2 align="left" ></h2>
 <h3 align="left" >Trabalho atualmente utilizando: </h3>
 <div align="center" style="display: inline_block"><br>
 
