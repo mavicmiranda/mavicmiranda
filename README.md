@@ -3,7 +3,7 @@
 <div>
 </div>
 </div>
-<h3 align="left" style="font-style: italic;" >Engenheira biomédica por formação, apaixonada por tecnologia, sempre pronta para uma novos desafios, adoro ir em eventos de tech e trabalhar em equipe </h3>
+<h3 align="left" style="font-style: italic;" >Engenheira biomédica por formação, apaixonada por tecnologia, sempre pronta para novos desafios, adoro ir em eventos de tech e trabalhar em equipe </h3>
 
 <div align="center" style="display: flex;">
     <div>
